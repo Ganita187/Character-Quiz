@@ -1,0 +1,32 @@
+body{
+ text-align:center;
+  position: relative; 
+	top: 250px;
+	left:98px;
+ background-image: url("https://spiritualunite-8df5.kxcdn.com/articles/wp-content/uploads/2016/03/number-17-meaning.jpg");
+}
+h1{
+    color:aqua;
+    font-size:60px;
+}
+h3{
+    color:black;
+    font-size:30px;
+}
+input{
+    font-size:20px;
+}
+img{
+    display:none;
+    position:relative;
+    left:700px;
+    width:600px;
+}
+.answer{
+    font-size:30px;
+    position:relative;
+    color:aqua;
+}
+.btn2{
+    display:none;
+}
